@@ -1,11 +1,11 @@
 public class ProdMatrix    
 {    
 // Adding a new line for local repo
-<<<<<<< HEAD
+
 //Adding a new line for local repo
-=======
+
 //Added new line from git editor on GitHub
->>>>>>> refs/remotes/origin/main
+
     public static void main(String[] args) {    
         int row1, col1, row2, col2;    
         //Initialize matrix a    
