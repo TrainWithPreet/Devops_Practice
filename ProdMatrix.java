@@ -6,7 +6,7 @@ public class ProdMatrix
 // Adding a new line for local repo3
 
 //Added new line from git editor on GitHub
-
+//Added new line from git editor on GitHub
     public static void main(String[] args) {    
         int row1, col1, row2, col2;    
         //Initialize matrix a    
