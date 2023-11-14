@@ -7,8 +7,6 @@ public class ProdMatrix
 
 //Added new line from git editor on GitHub
 
-// Another changes from GIT
-
     public static void main(String[] args) {    
         int row1, col1, row2, col2;    
         //Initialize matrix a    
